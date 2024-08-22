@@ -1,6 +1,11 @@
 ### Overview- Energy Generation a Global Perspective
 
 This project uses data from the World Data Institute to predict Energy Generation classes (very low, low, mid, high) for 35000 power plants located around the world. This dataset utilizes various factors, like fuel type, capacity, energy generation data from 2013-2019, and location. These variables are important for determined which class the powerplant 
+
+Deployment Link:
+Deployment Github:
+Tableau Public Link:
+
 # Dataset Description
 
 The dataset includes several variables pertaining the the plants. Capcaity, generation data, location, year built, data source were all included. 
@@ -46,6 +51,7 @@ Recalculate average generation and binning into generation classes
 
 ## Exploratory data analysis
 # Explored Descriptive statistics
+![finalimage1]("https://github.com/silver032/Energy-Generation-Classifier-phase-5-project-/blob/main/images/finalimage1.png")
 # Descriptive statistics
 
 
