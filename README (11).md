@@ -51,7 +51,7 @@ Recalculate average generation and binning into generation classes
 
 ## Exploratory data analysis
 # Explored Descriptive statistics
-![finalimage1]("https://github.com/silver032/Energy-Generation-Classifier-phase-5-project-/blob/main/images/finalimage1.png")
+![finalimage1]("[https://github.com/silver032/Energy-Generation-Classifier-phase-5-project-/blob/main/images/finalimage1.png"])
 # Descriptive statistics
 
 
