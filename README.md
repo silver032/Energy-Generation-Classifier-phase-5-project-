@@ -95,7 +95,7 @@ Recalculate average generation and binning into generation classes
 2. Significance of Feature Importance: Capacity and Primary fuel 
 3. The Value of Data Augmentation and Scalability: more robust model 
 4. Streamlit Deployment as an Accessible Solution and to gather more data
-5, Insights for Policy and Operational Efficiency: Target High generation dirty fuels
+5. Insights for Policy and Operational Efficiency: Target High generation dirty fuels
 6. Broader Implications for Energy Management: Grid optimization for developing countries
 Summary
 This project highlighted the potential of machine learning in predicting power generation classes across global power plants. The approach proved to be effective in tackling real-world energy generation challenges, offering insights into improving efficiency and optimizing resource management across the global power sector.
